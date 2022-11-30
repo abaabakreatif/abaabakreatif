@@ -39,16 +39,12 @@ h1, h2, h3, h4, h5, h6
 }
 .main-header
 {
-	background: url(../img/bg.jpg) no-repeat ;
-	 -webkit-background-size: 100% auto;
-	-moz-background-size: 100% auto;
-	-o-background-size: 100% auto;
-	background-size: 100% auto;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+	position: relative;
+	background: url(../img/bg.jpg) no-repeat center;
 	background-size: cover;
-	min-height: 900px;
+	background-repeat: no-repeat;
+	height: 900px;
+	overflow: hidden;
 }
 .bg-color
 {
