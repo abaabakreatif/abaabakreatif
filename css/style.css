@@ -41,7 +41,8 @@ h1, h2, h3, h4, h5, h6
 {
 	background: url(../img/bg.jpg) no-repeat;
 	background-size: cover;
-	min-height: 1510px;
+	background-position: center center;
+	background-attachment: fixed;
 }
 .bg-color
 {
