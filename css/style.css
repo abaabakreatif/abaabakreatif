@@ -39,16 +39,11 @@ h1, h2, h3, h4, h5, h6
 }
 .main-header
 {
-	position: relative;
-	background: url(../img/bg.jpg) no-repeat center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	height: 900px;
-	overflow: hidden;
+
 }
 .bg-color
 {
-	background-color: RGBA(0, 0, 0, 0.41);
+	/* background-color: RGBA(0, 0, 0, 0.41); */
 }
 
 .nav > li > a {
